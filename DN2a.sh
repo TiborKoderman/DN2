@@ -27,4 +27,4 @@ for n in ${*}; do
     else
         echo $ukaz | cut -d' ' -f1,2
     fi
-done¸
+done
